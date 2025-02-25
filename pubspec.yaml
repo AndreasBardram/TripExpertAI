@@ -1,0 +1,72 @@
+name: travel_planner
+description: "Flutter Project."
+
+publish_to: 'none'
+
+version: 1.0.2+2
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  intl: ^0.19.0
+  url_launcher: ^6.0.9
+  scroll_date_picker: ^3.8.0
+  shared_preferences: ^2.0.15
+  syncfusion_flutter_datepicker: ^25.1.1
+  pdf: ^3.6.2
+  printing: ^5.9.2
+  google_fonts: ^2.1.0
+  cupertino_icons: ^1.0.2
+  lottie: ^3.0.0
+  flutter_rating_bar: ^4.0.0
+  introduction_screen: ^3.1.4
+  syncfusion_flutter_sliders: ^25.1.35
+  in_app_purchase: ^3.2.0
+  flutter_dialogs: ^3.0.0
+  fluentui_system_icons: ^1.1.248
+  flutter_dotenv: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/pictures/1024x1024_app_logo.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/NotoSans-Regular.ttf
+    - assets/fonts/NotoSans-Bold.ttf
+    - assets/fonts/NotoSans-Italic.ttf
+    - assets/fonts/NotoSansJP-Regular.ttf
+    - assets/fonts/NotoSansKR-Regular.ttf
+    - assets/fonts/NotoSansSC-Regular.ttf
+    - assets/fonts/NotoSansTC-Regular.ttf
+    - assets/fonts/NotoSansThai-Regular.ttf
+    - assets/fonts/NotoKufiArabic-Regular.ttf
+
+    - assets/animations/animation_search_logo.json
+    - assets/animations/animation_search_world.json
+    - assets/animations/animation_world_spin.json
+    
+    - assets/pictures/1024x1024_app_logo.png
+    - assets/pictures/1024x1024_png_app_logo.png
+    - assets/pictures/helt_færdig_intro_billede_1.png
+    - assets/pictures/helt_færdig_intro_billede_2.png
+    - assets/pictures/helt_færdig_intro_billede_3.png
+    - assets/pictures/helt_færdig_intro_billede_4.png
+    - assets/pictures/helt_færdig_intro_billede_5.png
+    - assets/pictures/helt_færdig_intro_billede_6.png
+
+    - assets/.env
