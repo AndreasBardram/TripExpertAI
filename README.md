@@ -1,19 +1,5 @@
-# TravelPlanner
-AI based travel planner
+# TripExpert AI
 
-# travel_planner
+AI-powered travel planner that can generate travel plans for the user. The app can be found in the App Store: TripExpertAI
 
-AI based travel planner
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link: https://apps.apple.com/no/app/tripexpert-ai/id6557086520?l=nb
